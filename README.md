@@ -12,5 +12,5 @@ As such, the SQL queries showcased here are run against the intermediate model c
 
 ![Intermediate ERD](int_model.png)
 
-- [Demo video](https://medium.com/@sclauguico/ecom-phase-3-part-1-unlocking-business-value-with-sql-8ad1642107d9)
+- [Demo video](https://www.canva.com/design/DAGmYEW95e0/ObvymtyGiB7Oth5aYuV_NA/watch?utm_content=DAGmYEW95e0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc8599cd238)
 - [Documentation](https://medium.com/@sclauguico/ecom-phase-3-part-1-unlocking-business-value-with-sql-8ad1642107d9)
